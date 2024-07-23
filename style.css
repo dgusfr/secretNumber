@@ -140,3 +140,52 @@ button:disabled {
     padding: 1rem;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .container {
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .container__conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: static;
+    bottom: auto;
+  }
+
+  .container__informacoes {
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .container__input {
+    height: 48px;
+    padding: 1rem;
+    font-size: 18px;
+  }
+
+  .container__botao {
+    font-size: 18px;
+    padding: 12px 16px;
+    margin-top: 1rem;
+  }
+
+  .container__botoes {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  h1 {
+    font-size: 36px;
+    padding-bottom: 1rem;
+  }
+
+  .texto__paragrafo {
+    font-size: 18px;
+  }
+}
