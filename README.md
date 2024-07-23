@@ -45,11 +45,13 @@ Este é um projeto de um jogo de adivinhação de número. O objetivo do jogo é
 
 ![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
-<!-- -->
+<br></br>
 
 ## Descrição
 
 Este projeto é um jogo simples de adivinhação de número. O usuário deve escolher um número entre 1 e 40 e tentar adivinhar o número secreto gerado aleatoriamente pelo sistema. O jogo fornece feedback se o número chutado é maior ou menor que o número secreto e mantém o controle do número de tentativas.
+
+<br></br>
 
 ## Funcionalidades
 
@@ -58,6 +60,8 @@ Este projeto é um jogo simples de adivinhação de número. O usuário deve esc
 - Fornecimento de dicas sobre se o número secreto é maior ou menor que o chute.
 - Contagem do número de tentativas.
 - Opção de reiniciar o jogo após adivinhar corretamente.
+
+<br></br>
 
 ## Explicação
 
@@ -83,6 +87,8 @@ function verificarChute() {
 }
 ```
 
+<br></br>
+
 ## Como Usar
 
 `1.` Clone o repositório para sua máquina local.
@@ -90,6 +96,8 @@ function verificarChute() {
 `2.` Abra o arquivo index.html em um navegador web.
 
 `3.` Insira um número no campo de entrada e clique em "Chutar" para tentar adivinhar o número secreto.
+
+<br></br>
 
 ## Autor
 
