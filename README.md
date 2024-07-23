@@ -2,11 +2,15 @@
 
 Este é um projeto de um jogo de adivinhação de número. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente pelo sistema, oferecendo dicas se o número chutado é maior ou menor que o número secreto.
 
+<br></br>
+
 ## Interface
 
 <div align="center">
   <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
+
+<br></br>
 
 ## Sumário
 
@@ -18,6 +22,8 @@ Este é um projeto de um jogo de adivinhação de número. O objetivo do jogo é
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
+
+<br></br>
 
 ## Tecnologias Utilizadas
 
@@ -32,6 +38,8 @@ Este é um projeto de um jogo de adivinhação de número. O objetivo do jogo é
     <img src="img/css.png" alt="Logo Linguagem" width="100"/>
   </div>
 </div>
+
+<br></br>
 
 ## Status
 
