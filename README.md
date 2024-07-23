@@ -5,7 +5,7 @@ Este é um projeto de um jogo de adivinhação de número. O objetivo do jogo é
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
