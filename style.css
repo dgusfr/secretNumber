@@ -141,6 +141,55 @@ button:disabled {
   }
 }
 
+@media screen and (max-width: 800px) {
+  .container {
+    width: 90%;
+    height: auto;
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .container__conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: static;
+    bottom: auto;
+  }
+
+  .container__informacoes {
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .container__input {
+    height: 60px;
+    padding: 1rem;
+    font-size: 20px;
+  }
+
+  .container__botao {
+    font-size: 20px;
+    padding: 14px 20px;
+    margin-top: 1rem;
+  }
+
+  .container__botoes {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  h1 {
+    font-size: 48px;
+    padding-bottom: 2rem;
+  }
+
+  .texto__paragrafo {
+    font-size: 24px;
+  }
+}
+
 @media screen and (max-width: 400px) {
   .container {
     width: 100%;
